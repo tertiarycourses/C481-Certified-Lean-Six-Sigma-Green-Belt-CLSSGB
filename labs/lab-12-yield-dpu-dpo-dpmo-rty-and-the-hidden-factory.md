@@ -4,7 +4,7 @@
 
 ## Objective
 
-Calculate the full family of process performance metrics from raw data.
+Calculate the full family of process performance metrics from raw data (A4).
 
 ## Scenario
 
@@ -68,7 +68,7 @@ Your RTY is lower than your classic yield, you can explain the hidden factory ga
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

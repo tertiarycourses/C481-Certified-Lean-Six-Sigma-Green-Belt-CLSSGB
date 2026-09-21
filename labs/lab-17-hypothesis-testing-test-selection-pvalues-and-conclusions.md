@@ -4,7 +4,7 @@
 
 ## Objective
 
-Prove or disprove a suspected root cause statistically.
+Prove or disprove a suspected root cause statistically (A3, K2).
 
 ## Scenario
 
@@ -84,7 +84,7 @@ For each tested cause you can state H0, Ha, the test selected with justification
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

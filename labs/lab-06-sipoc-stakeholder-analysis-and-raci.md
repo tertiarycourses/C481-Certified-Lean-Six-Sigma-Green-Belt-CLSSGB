@@ -4,7 +4,7 @@
 
 ## Objective
 
-Build the macro process view and map the stakeholders who must be engaged.
+Build the macro process view and map the stakeholders who must be engaged (A2).
 
 ## Scenario
 
@@ -74,7 +74,7 @@ For each high-power stakeholder, note their likely objection and your engagement
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

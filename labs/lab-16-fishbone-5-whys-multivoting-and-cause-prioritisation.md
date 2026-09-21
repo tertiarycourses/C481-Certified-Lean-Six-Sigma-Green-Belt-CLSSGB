@@ -4,7 +4,7 @@
 
 ## Objective
 
-Generate, organise and prioritise candidate root causes.
+Generate, organise and prioritise candidate root causes (A3, K2).
 
 ## Scenario
 
@@ -68,7 +68,7 @@ Every Fishbone bone has sub-causes, each 5 Whys chain ends at a process cause ra
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

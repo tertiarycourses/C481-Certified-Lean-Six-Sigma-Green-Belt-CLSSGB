@@ -1,11 +1,12 @@
 # Certified Lean Six Sigma Green Belt (CLSSGB) — Learner Guide
 
-**Course Code:** C481  |  **Conducted by:** Tertiary Infotech Academy Pte Ltd (UEN 201200696W)  |  **Version v1.0 · 21 July 2026**
+**Course Code:** C481  |  **Conducted by:** Tertiary Infotech Academy Pte Ltd (UEN 201200696W)  |  **Version v1.0 · 19 July 2026**
 
 ## Contents
 
 - [Introduction](#introduction)
 - [Course Learning Outcomes](#course-learning-outcomes)
+- [Skills Framework Alignment](#skills-framework-alignment)
 - [Before You Start](#before-you-start)
 - [FOUNDATIONS — Six Sigma Foundations & The Green Belt Role  (10%)](#foundations--six-sigma-foundations--the-green-belt-role--10)
   - [Lab 1 — The Green Belt Role, Project Selection and Business Case  [Core]](#lab-1--the-green-belt-role-project-selection-and-business-case--core)
@@ -40,7 +41,7 @@
   - [Lab 25 — Verify the Gain, A3 Storyboard, Handover and Project Closure  [Core]](#lab-25--verify-the-gain-a3-storyboard-handover-and-project-closure--core)
 - [Quick Reference — Formulas You Should Know](#quick-reference--formulas-you-should-know)
 - [Quick Reference — The Eight Wastes (DOWNTIME)](#quick-reference--the-eight-wastes-downtime)
-- [Consolidating What You Learned](#consolidating-what-you-learned)
+- [Consolidating Your Learning](#consolidating-your-learning)
 - [Glossary](#glossary)
 
 
@@ -55,13 +56,30 @@ Every lab uses one continuous scenario — the Northwind Retail Distribution Cen
 
 ## Course Learning Outcomes
 
-- LO1: Lead a Lean Six Sigma project — define the problem, scope the work and charter the project.
-- LO2: Map and baseline a process using SIPOC, detailed process maps and value stream maps.
-- LO3: Build a valid measurement system — sampling, sample size and MSA/Gage R&R — and baseline capability.
-- LO4: Analyse process data statistically using Pareto, run charts, hypothesis testing, correlation and regression.
-- LO5: Identify and prove root causes of variation using Fishbone, 5 Whys and statistical evidence.
-- LO6: Select, risk-assess and pilot improvements using solution selection matrices, FMEA and DOE.
-- LO7: Sustain the gain with SPC control charts, process capability and a control plan.
+- LO1: Lead a Lean Six Sigma project — define the problem, scope the work and charter the project (A1, A2).
+- LO2: Map and baseline a process using SIPOC, detailed process maps and value stream maps (A2).
+- LO3: Build a valid measurement system — sampling, sample size and MSA/Gage R&R — and baseline capability (A4).
+- LO4: Analyse process data statistically using Pareto, run charts, hypothesis testing, correlation and regression (A3).
+- LO5: Identify and prove root causes of variation using Fishbone, 5 Whys and statistical evidence (A3, K2).
+- LO6: Select, risk-assess and pilot improvements using solution selection matrices, FMEA and DOE (A5).
+- LO7: Sustain the gain with SPC control charts, process capability and a control plan (A5, K1).
+
+
+## Skills Framework Alignment
+
+
+**Abilities**
+
+- A1: Define project to meet process performance.
+- A2: Establish project scope of work and the number of hours based on organisational requirements.
+- A3: Analyse process performance data to identify root causes of variation.
+- A4: Measure process performance against defined quality standards.
+- A5: Recommend improvement and control actions to sustain process performance.
+
+**Knowledge**
+
+- K1: DMAIC methodology and the Lean Six Sigma body of knowledge.
+- K2: Quality tools and problem-solving techniques for process improvement.
 
 
 ## Before You Start
@@ -85,7 +103,7 @@ Five browser-based tools are used during the labs. No installation or licence is
 
 **Core and elective labs**
 
-- Core labs are completed by everyone and build the improvement package step by step.
+- Core labs are completed by everyone and carry the skills you will use on a real project.
 - Elective labs extend the same scenario with additional Lean Six Sigma tools; complete them if time allows or as post-course practice.
 - All labs build on the same Northwind Retail Distribution Centre scenario, so outputs carry forward from one lab to the next.
 
@@ -115,7 +133,7 @@ Quality · Lean · Six Sigma · Y = f(X) · Belt roles · COPQ · Project select
 
 ### Lab 1 — The Green Belt Role, Project Selection and Business Case  [Core]
 
-Objective: Select a viable DMAIC project and justify it with a business case.
+Objective: Select a viable DMAIC project and justify it with a business case (A1).
 
 Goal: Establish what a Green Belt is accountable for versus a Yellow or Black Belt, then screen candidate projects against objective selection criteria and build the business case that wins sponsorship. A Green Belt leads the project and owns the analysis — this lab sets that expectation.
 
@@ -148,7 +166,7 @@ Your selected project scores highest on the criteria table, contains no pre-sele
 
 ### Lab 2 — Y = f(X), Sigma Level, DPMO and the DMAIC Roadmap  [Core]
 
-Objective: Express the problem as Y = f(X) and calculate the baseline sigma level.
+Objective: Express the problem as Y = f(X) and calculate the baseline sigma level (K1, A4).
 
 Goal: Every Six Sigma project rests on one model: the output Y is a function of the process inputs Xs. Translate the Northwind problem into that model, then convert the baseline defect data into DPMO and a sigma level so improvement can be proven numerically later.
 
@@ -197,7 +215,7 @@ VOC · CTQ trees · Kano · Affinity · Charter · Problem statement · SIPOC ·
 
 ### Lab 3 — Voice of the Customer, Affinity Diagram and Kano Analysis  [Core]
 
-Objective: Capture VOC and classify requirements using affinity and Kano analysis.
+Objective: Capture VOC and classify requirements using affinity and Kano analysis (A1, K2).
 
 Goal: Green Belts do not guess what the customer wants — they collect it, cluster it and classify it. Gather raw VOC, group it into themes with an affinity diagram, then use Kano analysis to separate the requirements that merely prevent dissatisfaction from the ones that actually delight.
 
@@ -230,7 +248,7 @@ You have at least twelve verbatims, every verbatim sits in a named affinity clus
 
 ### Lab 4 — CTQ Tree — Translating Customer Needs into Measurable Requirements  [Core]
 
-Objective: Translate VOC into measurable CTQ requirements with targets and limits.
+Objective: Translate VOC into measurable CTQ requirements with targets and limits (A1, A4).
 
 Goal: A customer need is not measurable; a CTQ is. Drive each VOC theme down through need to driver to a Critical-to-Quality requirement that carries a metric, a target and specification limits — because the Measure phase can only baseline what has been defined numerically.
 
@@ -263,7 +281,7 @@ Every CTQ has a unit of measure, a target, specification limits and an operation
 
 ### Lab 5 — Project Charter, Problem Statement, Goal Statement and Scope  [Core]
 
-Objective: Charter the project with a problem statement, goal, scope and business case.
+Objective: Charter the project with a problem statement, goal, scope and business case (A1, A2).
 
 Goal: The charter is the project's contract with its sponsor. Write a problem statement that quantifies the gap without naming a cause or a solution, a goal statement that is measurable and time-bound, and an explicit in-scope/out-of-scope table that prevents scope creep later.
 
@@ -297,7 +315,7 @@ Your problem statement contains process, period, measurable gap and impact but n
 
 ### Lab 6 — SIPOC, Stakeholder Analysis and RACI  [Core]
 
-Objective: Build the macro process view and map the stakeholders who must be engaged.
+Objective: Build the macro process view and map the stakeholders who must be engaged (A2).
 
 Goal: Before mapping the process in detail, agree its boundaries and its customers with SIPOC. Then identify every stakeholder the project touches and fix accountability with a RACI — because Green Belt projects fail on resistance far more often than on analysis.
 
@@ -356,7 +374,7 @@ Process mapping · VSM · Takt · Data types · Sampling · Sample size · MSA/G
 
 ### Lab 7 — Detailed Process Mapping and Swimlane Analysis  [Core]
 
-Objective: Map the as-is process to expose handoffs, delays and rework loops.
+Objective: Map the as-is process to expose handoffs, delays and rework loops (A2).
 
 Goal: The SIPOC gave the macro view; now build the detailed map that shows every actor, system and handoff. Handoffs are where delay and defects are created, so a swimlane map that puts each actor in their own lane makes the problem visible in a way a flowchart cannot.
 
@@ -396,7 +414,7 @@ Every lane crossing on your swimlane map is marked as a handoff with a named own
 
 ### Lab 8 — Value Stream Mapping, Takt Time and the Eight Wastes  [Core]
 
-Objective: Build a value stream map and compare value-added time against total lead time.
+Objective: Build a value stream map and compare value-added time against total lead time (A2, A4).
 
 Goal: A value stream map shows material AND information flow, plus the timeline ladder that exposes how little of the total lead time actually adds value. Combine it with a takt time calculation and a waste walk to quantify the opportunity.
 
@@ -431,7 +449,7 @@ Your VSM shows both material and information flow, your timeline ladder yields a
 
 ### Lab 9 — Data Types, Operational Definitions and the Data Collection Plan  [Core]
 
-Objective: Build a data collection plan with unambiguous operational definitions.
+Objective: Build a data collection plan with unambiguous operational definitions (A4).
 
 Goal: The data type determines which statistical tool is legal later — continuous data unlocks far more powerful analysis than discrete. Classify your data, write operational definitions that two people would apply identically, and plan the collection before touching the process.
 
@@ -465,7 +483,7 @@ Two people applying your operational definitions to the same records produce ide
 
 ### Lab 10 — Sampling Techniques and Sample Size Calculation  [Core]
 
-Objective: Select a sampling method and calculate the required sample size.
+Objective: Select a sampling method and calculate the required sample size (A4).
 
 Goal: Measuring the whole population is rarely affordable, and a biased sample invalidates every conclusion that follows. Choose the right sampling technique, then calculate how much data is actually needed using the Green Belt sample size formula rather than guessing.
 
@@ -505,7 +523,7 @@ Your sample size is calculated from the formula rather than assumed, and your sa
 
 ### Lab 11 — Measurement System Analysis and Gage R&R  [Core]
 
-Objective: Prove the measurement system is trustworthy before trusting the data.
+Objective: Prove the measurement system is trustworthy before trusting the data (A4).
 
 Goal: This is a defining Green Belt skill. If the measurement system itself varies, you will chase phantom process problems. MSA separates total variation into real process variation and measurement variation, then tests repeatability (same appraiser) and reproducibility (different appraisers).
 
@@ -541,7 +559,7 @@ You can state your repeatability, reproducibility and accuracy percentages and g
 
 ### Lab 12 — Yield, DPU, DPO, DPMO, RTY and the Hidden Factory  [Core]
 
-Objective: Calculate the full family of process performance metrics from raw data.
+Objective: Calculate the full family of process performance metrics from raw data (A4).
 
 Goal: Classic yield counts what came out good at the end and hides all the rework that got it there — the hidden factory. Rolled throughput yield multiplies the first pass yield of every step and exposes the true cost of a multi-step process.
 
@@ -582,13 +600,13 @@ Your RTY is lower than your classic yield, you can explain the hidden factory ga
 
 ### Lab 13 — Descriptive Statistics, Normality and Baseline Process Capability  [Core]
 
-Objective: Summarise the baseline statistically and calculate Cp and Cpk.
+Objective: Summarise the baseline statistically and calculate Cp and Cpk (A4, K1).
 
 Goal: Close the Measure phase by describing the data — central tendency, dispersion and shape — testing whether it is normal, and converting it into capability indices. Cp asks whether the process COULD fit inside the specification; Cpk asks whether it actually does, given where it is centred.
 
 **What you'll build**
 
-A descriptive statistics summary, a normality check and calculated Cp and Cpk values.   (Tools and techniques: Mean, median, range, standard deviation, histogram, normal distribution, Cp, Cpk, sigma level.)
+A descriptive statistics summary, a normality assessment and calculated Cp and Cpk values.   (Tools and techniques: Mean, median, range, standard deviation, histogram, normal distribution, Cp, Cpk, sigma level.)
 
 ![Lab 13 at a glance — the deliverable, the tools and the steps.](courseware/assets/lg-visuals/lab-13-visual.png)
 
@@ -642,7 +660,7 @@ Variation · Pareto · Run charts · Fishbone · 5 Whys · Multi-voting · Hypot
 
 ### Lab 14 — Variation, Run Charts and Stability Analysis  [Core]
 
-Objective: Distinguish common cause from special cause variation using run charts.
+Objective: Distinguish common cause from special cause variation using run charts (A3).
 
 Goal: Before hunting root causes, establish whether the process is stable. Common cause variation is built into the process and requires a process change; special cause variation is an assignable external event. Confusing the two leads to tampering — reacting to noise and making the process worse.
 
@@ -679,7 +697,7 @@ You can state whether your process is stable, name every non-random pattern you 
 
 ### Lab 15 — Pareto Analysis, Stratification and Boxplots  [Core]
 
-Objective: Prioritise the vital few causes using Pareto and stratified analysis.
+Objective: Prioritise the vital few causes using Pareto and stratified analysis (A3).
 
 Goal: The 80/20 rule states that roughly 80% of the effect comes from 20% of the causes. Build a Pareto chart to find the vital few, then stratify the data by shift, carrier and product family to test whether the problem is universal or concentrated — a concentrated problem is far easier to fix.
 
@@ -715,7 +733,7 @@ Your Pareto identifies the vital few crossing 80% cumulative, and your stratifie
 
 ### Lab 16 — Fishbone, 5 Whys, Multi-Voting and Cause Prioritisation  [Core]
 
-Objective: Generate, organise and prioritise candidate root causes.
+Objective: Generate, organise and prioritise candidate root causes (A3, K2).
 
 Goal: Structured cause generation prevents the team jumping to a favourite theory. Use a Fishbone to organise causes by category, 5 Whys to drill from symptom to actionable cause, and multi-voting to converge on the few worth testing with data.
 
@@ -752,7 +770,7 @@ Every Fishbone bone has sub-causes, each 5 Whys chain ends at a process cause ra
 
 ### Lab 17 — Hypothesis Testing — Test Selection, p-values and Conclusions  [Core]
 
-Objective: Prove or disprove a suspected root cause statistically.
+Objective: Prove or disprove a suspected root cause statistically (A3, K2).
 
 Goal: The defining Green Belt skill. Instead of asserting that the night shift is slower, state it as a hypothesis, choose the correct test for your data type and question, and let the p-value decide. This is how a Green Belt replaces opinion with evidence.
 
@@ -793,7 +811,7 @@ For each tested cause you can state H0, Ha, the test selected with justification
 
 ### Lab 18 — Correlation, Regression and Quantifying the X-Y Relationship  [Core]
 
-Objective: Quantify how strongly each X drives Y and build a predictive model.
+Objective: Quantify how strongly each X drives Y and build a predictive model (A3).
 
 Goal: Hypothesis testing tells you whether a difference exists; correlation and regression tell you how strongly two variables move together and let you predict Y from X. This is how a Green Belt identifies which Xs are worth controlling — while never forgetting that correlation does not prove causation.
 
@@ -849,7 +867,7 @@ Solution generation · Benchmarking · Solution selection matrix · 5S · Poka-Y
 
 ### Lab 19 — Solution Generation, Benchmarking and Brainwriting  [Core]
 
-Objective: Generate a wide solution set against the proven root causes.
+Objective: Generate a wide solution set against the proven root causes (A5).
 
 Goal: Only now — with root causes proven by data — is it legitimate to talk about solutions. Diverge deliberately before converging: structured techniques produce far better solution sets than an open discussion dominated by the loudest voice.
 
@@ -884,7 +902,7 @@ You have at least fifteen distinct solutions, every one traces to a root cause p
 
 ### Lab 20 — Lean Countermeasures — 5S, Poka-Yoke, Pull, JIT and Standard Work  [Core]
 
-Objective: Apply proven Lean countermeasures to the identified wastes.
+Objective: Apply proven Lean countermeasures to the identified wastes (A5).
 
 Goal: Lean supplies a catalogue of countermeasures with a strong track record. Rather than inventing a fix from scratch, match the waste type you found in Lab 8 to the countermeasure that reliably addresses it — and prefer poka-yoke, which prevents the error, over inspection, which merely detects it.
 
@@ -920,9 +938,9 @@ Every countermeasure traces to a specific waste, and your poka-yoke prevents or 
 
 ### Lab 21 — Solution Selection Matrix and Cost-Benefit Analysis  [Core]
 
-Objective: Select the most feasible and impactful solutions using weighted criteria.
+Objective: Select the most feasible and impactful solutions using weighted criteria (A3, A5).
 
-Goal: This lab produces a cornerstone of your improvement package. Score every candidate solution against weighted criteria so the decision is transparent and defensible — feasibility, cost, impact and time to implement — then confirm the selection with a cost-benefit analysis.
+Goal: Score every candidate solution against weighted criteria so the decision is transparent and defensible — feasibility, cost, impact and time to implement — then confirm the selection with a cost-benefit analysis.
 
 **What you'll build**
 
@@ -957,7 +975,7 @@ Your matrix has weighted criteria with a defined scoring scale, every solution i
 
 ### Lab 22 — FMEA, Risk Priority Numbers, DOE and Piloting  [Core]
 
-Objective: Risk-assess and pilot the selected solution before full rollout.
+Objective: Risk-assess and pilot the selected solution before full rollout (A5).
 
 Goal: A solution that fails in production costs more than the problem it fixed. FMEA systematically asks how the change could fail, how bad that would be and how likely it is to be caught. Then pilot at small scale and measure against the baseline before committing.
 
@@ -1016,7 +1034,7 @@ SPC · Control chart selection · Control limits · Out-of-control rules · Cp/C
 
 ### Lab 23 — Statistical Process Control — Chart Selection and Control Limits  [Core]
 
-Objective: Select, build and interpret the correct control chart for the process.
+Objective: Select, build and interpret the correct control chart for the process (A4, A5).
 
 Goal: A control chart is how a process tells you it has drifted before it produces a defect. Choosing the WRONG chart for the data type invalidates every signal it gives, so selection comes first — then the limits, then the rules for reading it.
 
@@ -1059,9 +1077,9 @@ You can justify your chart choice against the selection tree, your limits are ca
 
 ### Lab 24 — Control Plan, SOP, Visual Management and Response Plan  [Core]
 
-Objective: Build the control plan that sustains the improvement.
+Objective: Build the control plan that sustains the improvement (A4, A5).
 
-Goal: This lab produces a cornerstone of your improvement package. The control plan is the document that keeps the gain after the project team disbands. Without a named owner and a defined reaction plan, processes drift back to their old performance within months.
+Goal: The control plan is the document that keeps the gain after the project team disbands. Without a named owner and a defined reaction plan, processes drift back to their old performance within months.
 
 **What you'll build**
 
@@ -1098,7 +1116,7 @@ Every control point has a named owner, a monitoring frequency and a specific rea
 
 ### Lab 25 — Verify the Gain, A3 Storyboard, Handover and Project Closure  [Core]
 
-Objective: Prove the improvement is real and hand the process over.
+Objective: Prove the improvement is real and hand the process over (A5, K1).
 
 Goal: Close the project properly: re-measure capability, prove statistically that the improvement is real rather than random, quantify the financial benefit with Finance, tell the story on a single A3 page, and formally transfer ownership to the process owner.
 
@@ -1172,16 +1190,16 @@ Your after-capability beats the baseline, the improvement is proven with a hypot
 - E — Extra-processing: doing more work to the output than the customer requires or values.
 
 
-## Consolidating What You Learned
+## Consolidating Your Learning
 
-- Re-read your own lab outputs — together they form one complete improvement package for the Northwind scenario.
-- Check yourself: can you define Lean, Six Sigma and Lean Six Sigma, and explain how they differ?
-- Can you name the eight wastes and give a service-industry example of each?
-- Can you explain each DMAIC phase, what it delivers and which tools belong to it?
-- Can you calculate yield, DPU, DPO and DPMO from raw data and read off the sigma level?
-- Can you explain how the Fishbone diagram and 5 Whys are used together to find a root cause?
-- Re-work the labs from memory — being able to produce the tools unaided is the best consolidation.
-- Then apply the roadmap to a real process in your own organisation — that is what a Green Belt is for.
+- Keep these slides, this Learner Guide and your lab outputs — they are your reference after the course.
+- Re-read your own lab outputs; they follow the Northwind scenario end to end.
+- Be ready to define Lean, Six Sigma and Lean Six Sigma, and explain how they differ.
+- Be ready to name the eight wastes and give a service-industry example of each.
+- Be ready to explain each DMAIC phase, what it delivers and which tools belong to it.
+- Be ready to calculate yield, DPU, DPO and DPMO from raw data and read off the sigma level.
+- Be ready to explain how the Fishbone diagram and 5 Whys are used together to find a root cause.
+- Re-work the labs from memory — being able to produce the tools unaided is the best preparation.
 
 
 ## Glossary

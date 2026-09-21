@@ -4,7 +4,7 @@
 
 ## Objective
 
-Capture VOC and classify requirements using affinity and Kano analysis.
+Capture VOC and classify requirements using affinity and Kano analysis (A1, K2).
 
 ## Scenario
 
@@ -52,7 +52,7 @@ You have at least twelve verbatims, every verbatim sits in a named affinity clus
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

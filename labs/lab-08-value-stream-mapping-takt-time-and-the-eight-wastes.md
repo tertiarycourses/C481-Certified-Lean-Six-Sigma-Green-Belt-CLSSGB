@@ -4,7 +4,7 @@
 
 ## Objective
 
-Build a value stream map and compare value-added time against total lead time.
+Build a value stream map and compare value-added time against total lead time (A2, A4).
 
 ## Scenario
 
@@ -60,7 +60,7 @@ Your VSM shows both material and information flow, your timeline ladder yields a
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

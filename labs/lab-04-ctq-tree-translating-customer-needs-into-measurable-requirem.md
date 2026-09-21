@@ -4,7 +4,7 @@
 
 ## Objective
 
-Translate VOC into measurable CTQ requirements with targets and limits.
+Translate VOC into measurable CTQ requirements with targets and limits (A1, A4).
 
 ## Scenario
 
@@ -52,7 +52,7 @@ Every CTQ has a unit of measure, a target, specification limits and an operation
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

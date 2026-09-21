@@ -4,7 +4,7 @@
 
 ## Objective
 
-Map the as-is process to expose handoffs, delays and rework loops.
+Map the as-is process to expose handoffs, delays and rework loops (A2).
 
 ## Scenario
 
@@ -66,7 +66,7 @@ Every lane crossing on your swimlane map is marked as a handoff with a named own
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

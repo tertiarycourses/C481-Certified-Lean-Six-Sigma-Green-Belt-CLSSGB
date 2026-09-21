@@ -4,7 +4,7 @@
 
 ## Objective
 
-Prioritise the vital few causes using Pareto and stratified analysis.
+Prioritise the vital few causes using Pareto and stratified analysis (A3).
 
 ## Scenario
 
@@ -64,7 +64,7 @@ Your Pareto identifies the vital few crossing 80% cumulative, and your stratifie
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

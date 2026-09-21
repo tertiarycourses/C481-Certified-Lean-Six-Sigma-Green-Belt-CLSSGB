@@ -4,7 +4,7 @@
 
 ## Objective
 
-Select a sampling method and calculate the required sample size.
+Select a sampling method and calculate the required sample size (A4).
 
 ## Scenario
 
@@ -64,7 +64,7 @@ Your sample size is calculated from the formula rather than assumed, and your sa
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

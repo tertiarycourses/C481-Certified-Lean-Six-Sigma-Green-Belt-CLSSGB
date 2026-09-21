@@ -36,7 +36,7 @@ These browser-based tools are used during the labs. No installation or licence n
 - **Lab 10 — Sampling Techniques and Sample Size Calculation:** A justified sampling plan and calculated sample sizes for continuous and discrete data.
 - **Lab 11 — Measurement System Analysis and Gage R&R:** An attribute Gage R&R study with repeatability, reproducibility and accuracy percentages.
 - **Lab 12 — Yield, DPU, DPO, DPMO, RTY and the Hidden Factory:** A metrics worksheet with yield, FPY, RTY, DPU, DPO and DPMO calculated for the process.
-- **Lab 13 — Descriptive Statistics, Normality and Baseline Process Capability:** A descriptive statistics summary, a normality check and calculated Cp and Cpk values.
+- **Lab 13 — Descriptive Statistics, Normality and Baseline Process Capability:** A descriptive statistics summary, a normality assessment and calculated Cp and Cpk values.
 - **Lab 14 — Variation, Run Charts and Stability Analysis:** A run chart of the baseline data with the six non-random patterns assessed.
 - **Lab 15 — Pareto Analysis, Stratification and Boxplots:** A Pareto chart with cumulative line, stratified Pareto charts and comparative boxplots.
 - **Lab 16 — Fishbone, 5 Whys, Multi-Voting and Cause Prioritisation:** A Fishbone diagram, three 5 Whys chains and a multi-voted shortlist of causes to test.

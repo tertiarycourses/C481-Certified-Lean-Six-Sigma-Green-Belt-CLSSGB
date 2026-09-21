@@ -4,7 +4,7 @@
 
 ## Objective
 
-Select, build and interpret the correct control chart for the process.
+Select, build and interpret the correct control chart for the process (A4, A5).
 
 ## Scenario
 
@@ -92,7 +92,7 @@ You can justify your chart choice against the selection tree, your limits are ca
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

@@ -4,7 +4,7 @@
 
 ## Objective
 
-Prove the measurement system is trustworthy before trusting the data.
+Prove the measurement system is trustworthy before trusting the data (A4).
 
 ## Scenario
 
@@ -64,7 +64,7 @@ You can state your repeatability, reproducibility and accuracy percentages and g
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

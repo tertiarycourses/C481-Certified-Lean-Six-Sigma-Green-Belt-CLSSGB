@@ -4,7 +4,7 @@
 
 ## Objective
 
-Charter the project with a problem statement, goal, scope and business case.
+Charter the project with a problem statement, goal, scope and business case (A1, A2).
 
 ## Scenario
 
@@ -56,7 +56,7 @@ Your problem statement contains process, period, measurable gap and impact but n
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

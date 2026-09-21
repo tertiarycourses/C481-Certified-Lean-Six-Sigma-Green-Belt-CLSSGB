@@ -4,7 +4,7 @@
 
 ## Objective
 
-Apply proven Lean countermeasures to the identified wastes.
+Apply proven Lean countermeasures to the identified wastes (A5).
 
 ## Scenario
 
@@ -64,7 +64,7 @@ Every countermeasure traces to a specific waste, and your poka-yoke prevents or 
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

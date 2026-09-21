@@ -4,7 +4,7 @@
 
 ## Objective
 
-Risk-assess and pilot the selected solution before full rollout.
+Risk-assess and pilot the selected solution before full rollout (A5).
 
 ## Scenario
 
@@ -88,7 +88,7 @@ Every FMEA row has an RPN, the highest RPNs have owned actions with dates, and y
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

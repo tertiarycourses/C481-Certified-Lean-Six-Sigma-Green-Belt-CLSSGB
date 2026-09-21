@@ -4,7 +4,7 @@
 
 ## Objective
 
-Build the control plan that sustains the improvement.
+Build the control plan that sustains the improvement (A4, A5).
 
 ## Scenario
 
@@ -76,7 +76,7 @@ Every control point has a named owner, a monitoring frequency and a specific rea
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

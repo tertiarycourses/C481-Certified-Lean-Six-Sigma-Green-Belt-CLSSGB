@@ -4,7 +4,7 @@
 
 ## Objective
 
-Generate a wide solution set against the proven root causes.
+Generate a wide solution set against the proven root causes (A5).
 
 ## Scenario
 
@@ -60,7 +60,7 @@ You have at least fifteen distinct solutions, every one traces to a root cause p
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

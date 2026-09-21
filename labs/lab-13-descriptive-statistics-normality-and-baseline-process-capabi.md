@@ -4,7 +4,7 @@
 
 ## Objective
 
-Summarise the baseline statistically and calculate Cp and Cpk.
+Summarise the baseline statistically and calculate Cp and Cpk (A4, K1).
 
 ## Scenario
 
@@ -12,7 +12,7 @@ Northwind Retail Distribution Centre fulfils online orders from a 12,000 sqm war
 
 ## What you will build
 
-A descriptive statistics summary, a normality check and calculated Cp and Cpk values.
+A descriptive statistics summary, a normality assessment and calculated Cp and Cpk values.
 
 **Tools and techniques:** Mean, median, range, standard deviation, histogram, normal distribution, Cp, Cpk, sigma level
 
@@ -76,7 +76,7 @@ You can state your baseline Cp and Cpk, explain the difference between them, and
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

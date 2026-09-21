@@ -4,7 +4,7 @@
 
 ## Objective
 
-Select the most feasible and impactful solutions using weighted criteria.
+Select the most feasible and impactful solutions using weighted criteria (A3, A5).
 
 ## Scenario
 
@@ -68,7 +68,7 @@ Your matrix has weighted criteria with a defined scoring scale, every solution i
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

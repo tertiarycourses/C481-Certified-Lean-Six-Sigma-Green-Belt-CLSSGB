@@ -4,7 +4,7 @@
 
 ## Objective
 
-Select a viable DMAIC project and justify it with a business case.
+Select a viable DMAIC project and justify it with a business case (A1).
 
 ## Scenario
 
@@ -52,7 +52,7 @@ Your selected project scores highest on the criteria table, contains no pre-sele
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

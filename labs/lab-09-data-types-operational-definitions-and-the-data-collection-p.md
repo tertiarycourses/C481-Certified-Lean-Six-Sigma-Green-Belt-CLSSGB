@@ -4,7 +4,7 @@
 
 ## Objective
 
-Build a data collection plan with unambiguous operational definitions.
+Build a data collection plan with unambiguous operational definitions (A4).
 
 ## Scenario
 
@@ -56,7 +56,7 @@ Two people applying your operational definitions to the same records produce ide
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

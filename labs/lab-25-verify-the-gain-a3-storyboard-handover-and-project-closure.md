@@ -4,7 +4,7 @@
 
 ## Objective
 
-Prove the improvement is real and hand the process over.
+Prove the improvement is real and hand the process over (A5, K1).
 
 ## Scenario
 
@@ -84,7 +84,7 @@ Your after-capability beats the baseline, the improvement is proven with a hypot
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

@@ -4,7 +4,7 @@
 
 ## Objective
 
-Quantify how strongly each X drives Y and build a predictive model.
+Quantify how strongly each X drives Y and build a predictive model (A3).
 
 ## Scenario
 
@@ -76,7 +76,7 @@ You can state R, r-squared and the regression equation, use it to predict Y, and
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

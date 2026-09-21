@@ -4,7 +4,7 @@
 
 ## Objective
 
-Distinguish common cause from special cause variation using run charts.
+Distinguish common cause from special cause variation using run charts (A3).
 
 ## Scenario
 
@@ -68,7 +68,7 @@ You can state whether your process is stable, name every non-random pattern you 
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 

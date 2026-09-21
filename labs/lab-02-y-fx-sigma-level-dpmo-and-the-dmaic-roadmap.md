@@ -4,7 +4,7 @@
 
 ## Objective
 
-Express the problem as Y = f(X) and calculate the baseline sigma level.
+Express the problem as Y = f(X) and calculate the baseline sigma level (K1, A4).
 
 ## Scenario
 
@@ -52,7 +52,7 @@ Your Y is a measurable customer-facing output, you have at least eight Xs, and y
 
 ## Deliverable
 
-Save your output — it forms part of your Northwind improvement package and is your revision material.
+Save your output — it forms part of your Northwind improvement package and is your revision material after the course.
 
 ---
 
